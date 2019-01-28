@@ -1,0 +1,194 @@
+body {
+	font-family: "Open Sans", "OpenSans", sans-serif;
+	padding: 0;
+	margin: 0;
+	width: 100%;
+}
+
+nav {
+	background-color: #c12127;
+	color: rgba(255, 255, 255, 0.8);
+	padding-top: 15px;
+	height: 100px;
+}
+
+nav a {
+	color: rgba(255, 255, 255, 0.8);
+	text-decoration: none;
+}
+
+.clearfix {
+	clear: both;
+}
+
+.header {
+	color: white;
+	background: rgb(36, 91, 123);
+	max-width: 100%;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.header-bar {
+	width: 95%;
+	height: auto;
+}
+
+.build {
+
+	padding: 90px 20px 80px 30px;
+	background-image: url("images/city-scape.svg");
+	max-width: 100%;
+}
+
+.top-links {
+	display: inline-block;
+	float: right;
+	padding: 40px 20px;
+	margin: 0 20px 0 0;
+}
+
+h2 {
+	color: black;
+	text-align: left;
+}
+
+.text-signUp {
+	color: white;
+}
+
+.btn-SignOrgs {
+	background-color: rgb(172, 46, 45);
+	color: white;
+	border-radius: 20px;
+	border-color: rgba(0, 0, 0, 0);
+	border-width: 1px;
+	border-style: solid;
+	box-sizing: border-box;
+	font-size: 18px;
+	font-weight: 400;
+	padding: 8px 26px;
+}
+
+.top-links li {
+	display: inline-block;
+	margin: 0 10px;
+}
+
+.first-section {
+	background: rgb(5, 20, 65);
+}
+
+.logo {
+	width: 200px;
+	float: left;
+}
+
+.first-section {
+	background-color: #273547;
+	font: white;
+	padding: 270px 10px;
+	color: white;
+}
+
+.first-container {
+	width: 50%;
+	margin-left: 4%;
+	float: left;
+	position: relative;
+	min-height: 1px;
+	padding-left: 10px;
+	padding-right: 10px;
+	display: block;
+	box-sizing: border-box;
+}
+
+.second-section {
+	background-image: url("images/forklift.svg");
+	color: white;
+	background-size: contain;
+	background-position: 50% 0;
+	padding: 60px 20px 180px 20px;
+}
+
+.second-container {
+	margin: 40px 50px 20px 0px;
+	padding: 0 100px;
+}
+
+h1 {
+	color: white;
+}
+
+#my-search {
+	float: left;
+	width: 500px;
+}
+
+.button {
+	width: 75%;
+	display: inline-block;
+	vertical-align: top;
+	float: left;
+}
+
+#search-button {
+	background-color: #c12127;
+}
+
+.tab-group {
+	max-width: 10%;
+	float: left;
+	display: inline-block;
+}
+
+.bear-logo {
+	display: inline-block;
+	float: left;
+	margin-left: 8px;
+	margin-top: 5px;
+}
+
+.third-section {
+	margin: 0 auto;
+	width: 650px;
+}
+
+.option-find {
+
+	float: left;
+	height: 200px;
+	width: 200px;
+}
+
+.option-discover {
+
+	float: left;
+	height: 200px;
+	width: 200px;
+	margin: 0 1%;
+}
+
+.option-build {
+
+	float: left;
+	height: 200px;
+	width: 200px;
+}
+
+.btn-signUp {
+	background-color: rgb(216, 152, 14);
+	color: white;
+	border-radius: 20px;
+	border-color: rgba(0, 0, 0, 0);
+	border-width: 1px;
+	border-style: solid;
+	box-sizing: border-box;
+	font-size: 18px;
+	font-weight: 400;
+	padding: 8px 26px;
+}
+
+.option-build {
+	float: left;
+}
